@@ -1,0 +1,202 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "name": "Sony Xperia Z3",
+      "price": 140,
+      "specs": {
+        "manufacturer": "Sony",
+        "storage": 16,
+        "os": "Android",
+        "camera": 15,
+        "release": "2014-09-01"
+      },
+      "description": "Samsung Galaxy A50s (SM-A507FN/DS) Dual SIM 128GB GSM Unlocked, International Version, No Warranty - Prism Crush White",
+      "rating": 4,
+      "image": {
+        "small": "img/sony-xperia-z3.jpg",
+        "large": "img/sony-xperia-z3-large.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Iphone 6",
+      "price": 199,
+      "specs": {
+        "manufacturer": "Apple",
+        "storage": 16,
+        "os": "iOS",
+        "camera": 8,
+        "release": "2015-09-01"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+      "rating": 4,
+      "image": {
+        "small": "img/iphone6.jpg",
+        "large": "img/iphone6-large.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "HTC One M8",
+      "price": 102,
+      "specs": {
+        "manufacturer": "HTC",
+        "storage": 32,
+        "os": "Android",
+        "camera": 5,
+        "release": "2013-03-22"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+      "rating": 4,
+      "image": {
+        "small": "img/htc-one.jpg",
+        "large": "img/htc-one-large.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Galaxy Alpha",
+      "price": 138,
+      "specs": {
+        "manufacturer": "Samsung",
+        "storage": 32,
+        "os": "Android",
+        "camera": 12,
+        "release": "2014-08-01"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+      "rating": 4,
+      "image": {
+        "small": "img/galaxy-alpha.jpg",
+        "large": "img/galaxy-alpha-large.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Nokia Lumia",
+      "price": 123,
+      "specs": {
+        "manufacturer": "Nokia",
+        "storage": 16,
+        "os": "Windows",
+        "camera": 5,
+        "release": "2014-07-01"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+      "rating": 4,
+      "image": {
+        "small": "img/nokia-lumia.jpg",
+        "large": "img/nokia-lumia-large.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Zte Nubia",
+      "price": 636,
+      "specs": {
+        "manufacturer": "ZTE",
+        "storage": 32,
+        "os": "Android",
+        "camera": 12,
+        "release": "2018-10-31"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+      "rating": 4,
+      "image": {
+        "small": "img/zte-nubia.jpg",
+        "large": "img/zte-nubia-large.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy S5",
+      "price": 298,
+      "specs": {
+        "manufacturer": "Samsung",
+        "storage": 16,
+        "os": "Android",
+        "camera": 15,
+        "release": "2014-04-01"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+      "rating": 4,
+      "image": {
+        "small": "img/galaxy-s5.jpg",
+        "large": "img/galaxy-s5-large.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Iphone 5S",
+      "price": 152,
+      "specs": {
+        "manufacturer": "Apple",
+        "storage": 16,
+        "os": "iOS",
+        "camera": 8,
+        "release": "2013-09-01"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+      "rating": 4,
+      "image": {
+        "small": "img/iphone5s.jpg",
+        "large": "img/iphone5s-large.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Asus ROG Phone II",
+      "price": 596,
+      "specs": {
+        "manufacturer": "Asus",
+        "storage": 16,
+        "os": "Android",
+        "camera": 15,
+        "release": "2019-10-01"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+      "rating": 4,
+      "image": {
+        "small": "img/pict1.jpg",
+        "large": "img/"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Apple iPhone 11 Pro",
+      "price": 1519,
+      "specs": {
+        "manufacturer": "Apple",
+        "storage": 16,
+        "os": "Android",
+        "camera": 15,
+        "release": "2019-11-01"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+      "rating": 4,
+      "image": {
+        "small": "img/pict2.jpg",
+        "large": "img/"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Samsung Galaxy A50s",
+      "price": 389,
+      "specs": {
+        "manufacturer": "Samsung",
+        "storage": 16,
+        "os": "Android",
+        "camera": 15,
+        "release": "2019-09-01"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+      "rating": 4,
+      "image": {
+        "small": "img/pict3.jpg",
+        "large": "img/"
+      }
+    }
+  ]
+}
